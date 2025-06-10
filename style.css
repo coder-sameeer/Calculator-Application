@@ -39,7 +39,7 @@ body {
 }
 
 button {
-    padding: 12px;
+    height:55px;
     font-size: 1.2em;
     cursor: pointer;
     color: white;
